@@ -2,9 +2,9 @@
 This repository contains a project in which we analyze the results of an **A/B test performed by an e-commerce company**.
 A/B tests are very commonly performed by data analysts and data scientists. It is important to get some practice working with the difficulties of these tests.
 
-**The goal** is to help the company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
+*The goal is to help the company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.*
 
-In this project, we test the alternative hypothesis (the new webpage does convert better than the old webpage) against the null hypothesis 
+In this project, we test the *alternative hypothesis* (the new webpage does convert better than the old webpage) against the *null hypothesis* 
 (the new webpage converts about the same or worse than the old page).
 
 In order to test our alternative hypothesis, we first perform the **sampling distribution** for the difference in conversion between the two pages over 10,000 iterations 
